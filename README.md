@@ -13,7 +13,7 @@ Fuber project made in PHP,HTML, and CSS.  Using the spoontacular API to retrieve
 - Food kept in a user’s kitchen can be organized based on food types and where in the kitchen it is stored (ie. Fridge, pantry, freezer)
 
 ### Project Timeline
-![project timeline](/screenshots/projecttimeline.JPG?raw=true "Timeline")
+![project timeline](/screenshots/projecttimeline.jpg?raw=true "Timeline")
 
 
 
