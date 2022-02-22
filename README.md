@@ -10,7 +10,7 @@ My kitchen mockup:
 
 
 My Kitchen page:
-![Alt text](/screenshots/MyKitchen.png?raw=true "My Kitchen")
+![Alt text](/screenshots/Mykitchen.png?raw=true "My Kitchen")
 
 
 
