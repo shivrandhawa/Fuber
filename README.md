@@ -5,7 +5,13 @@ Fuber project made in PHP,HTML, and CSS.  Using the spoontacular API to retrieve
 Landing page:
 ![Alt text](/screenshots/Landingpage.png?raw=true "Landing Page")
 
-My kitchen Mock page:
-![Alt text](/screenshots/MyKitchen.png?raw=true "Landing Page")
+My kitchen mockup:
+![Alt text](/screenshots/MyKitchenmockup.JPG?raw=true "My Kitchen")
+
+
+My Kitchen page:
+
+![Alt text](/screenshots/MyKitchen.png?raw=true "My Kitchen")
+
 
 
