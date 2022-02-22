@@ -1,0 +1,141 @@
+.page-header {
+    text-align: center;
+}
+
+.home_image {
+    display: block;
+    text-align: center;
+}
+
+.home_header {
+    text-align: center;
+}
+
+.home_icon {
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    height: auto;
+}
+
+#home_kitchen {
+    background-color: #92F04E;
+    border-radius: 30px;
+    text-align: center;
+    border: 6px solid #c4ead4;
+}
+
+#home_qr {
+    background-color: #45D9F6;
+    border-radius: 30px;
+    border: 6px solid #c4ead4;
+}
+
+#home_recipes {
+    background-color: #F6BB45;
+    border-radius: 30px;
+    border: 8px solid #c4ead4;
+}
+
+#home_logo {
+    width: 225px;
+    height: 225px;
+    margin: 60px;
+}
+
+#home_apps {
+    background-color: #F64545;
+    border-radius: 30px;
+    border: 6px solid #c4ead4;
+}
+
+#home_sections {
+    background-color: #d7f0e1;
+    overflow: auto;
+    padding: 20px;
+    border-radius: 40px;
+}
+
+h5 {
+    color: black;
+    font-weight: bolder;
+    font-size: 120%;
+}
+
+.home_click:hover {
+    text-decoration: none;
+}
+
+.home_click:visited {
+    color: black;
+}
+
+.home_click:active {
+    color: black;
+    text-decoration: none;
+}
+
+.home_row {
+    text-align: center;
+}
+
+body {
+    background-color: #EFF9F3;
+    height: 100%;
+}
+
+
+/* Affiliated Apps */
+
+#apps_header {
+    text-align: center;
+    margin: 20px;
+}
+
+.related_apps {
+    border: 1px solid black;
+    padding: 20px 0 20px 10px;
+    background-color: #f5fbf7;
+}
+
+.related_apps2 {
+    border: 1px solid black;
+    padding: 20px 10px 20px 0;
+    background-color: #f5fbf7;
+}
+
+.app_logo {
+    width: 100px;
+    height: 100px;
+    margin-left: 11px;
+}
+
+.app_name {
+    margin-top: 10px;
+    color: #538EF5;
+    font-weight: bold;
+}
+
+.app_name:hover {
+    text-decoration: underline;
+}
+
+app_name:visited {
+    color: black;
+}
+
+.app_info {
+    text-align: center;
+}
+
+.app_detail {
+    word-wrap: break-word;
+}
+
+#apps_header .fa-users {
+    color: #E880C7;
+}
+
+.apps_page {
+    background-color: #EFF9F3;
+}

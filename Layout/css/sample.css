@@ -1,0 +1,41 @@
+  
+
+  #search {
+      float: right;
+  }
+
+  .kitchen_header {
+      text-align: center;
+      padding-top: 50px;
+  }
+
+  #kitchen_function {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      text-align: center;
+  }
+
+  table {
+      border: 1px solid;
+      width: 100%;
+      margin-top: 20px;
+  }
+
+  tr,
+  th,
+  td {
+      padding: 15px;
+  }
+
+  .date {
+      border-bottom: 1px solid;
+  }
+
+  .recipe_header {
+      text-align: center;
+      padding-top: 50px;
+  }
+
+  #recipe_function {
+      float: left;
+  }
