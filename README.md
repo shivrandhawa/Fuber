@@ -12,16 +12,20 @@ Fuber project made in PHP,HTML, and CSS.  Using the spoontacular API to retrieve
 - By scanning food items, users are provided suggestions on recipes. 
 - Food kept in a user’s kitchen can be organized based on food types and where in the kitchen it is stored (ie. Fridge, pantry, freezer)
 
-
-Landing page:
-![Alt text](/screenshots/Landingpage.png?raw=true "Landing Page")
-
-My kitchen mockup:
-![Alt text](/screenshots/MyKitchenmockup.JPG?raw=true "My Kitchen mockup")
+### Project Timeline
+![project timeline](/screenshots/Projecttimeline.JPEG?raw=true "Timeline")
 
 
-My Kitchen page:
-![Alt text](/screenshots/Mykitchen.png?raw=true "My Kitchen")
+
+
+### Landing page:
+![Landing page](/screenshots/Landingpage.png?raw=true "Landing Page")
+
+### My kitchen mockup:
+![My kitchen mockup](/screenshots/MyKitchenmockup.JPG?raw=true "My Kitchen mockup")
+
+### My Kitchen page:
+![my kitchen page](/screenshots/Mykitchen.png?raw=true "My Kitchen")
 
 
 
