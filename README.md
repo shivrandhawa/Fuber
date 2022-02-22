@@ -6,7 +6,7 @@ Landing page:
 ![Alt text](/screenshots/Landingpage.png?raw=true "Landing Page")
 
 My kitchen mockup:
-![Alt text](/screenshots/MyKitchenmockup.JPG?raw=true "My Kitchen")
+![Alt text](/screenshots/MyKitchenmockup.JPG?raw=true "My Kitchen mockup")
 
 
 My Kitchen page:
